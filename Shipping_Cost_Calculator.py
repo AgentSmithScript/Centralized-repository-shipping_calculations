@@ -1,6 +1,4 @@
- # Here is a new update by AgentSmithScript
- # Here is another update by AgentSmithScript
-
+ # Here is a new update by <AgentSmithScript>
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
